@@ -1,0 +1,32 @@
+*{
+    background-color: #FFDDDD;
+}
+
+h1, h2{
+    font-family: Helvetica, "Times News Roman", sans-serif;
+    font-weight: 800;
+}
+
+h1 {
+    background-color: #303030;
+    color: #EEEEEE;
+    text-align: center;
+}
+
+h2 {
+    color: #0000CC;
+    text-decoration: underline;
+}
+
+li {
+    font-family: Georgia, Garamond, serif;  
+}
+
+img {
+    width: 800px;
+    height: auto;
+}
+
+.ingredients {
+    font-style: italic;
+}
